@@ -1,2 +1,5 @@
 # RestaurantManagementSystem
-Sem 3 project of Data structure and Algorithms.  Used concept of LinkedList Interactive console based menu Implemented in C language
+Project of Data structure and Algorithms. <br/>
+* Used concept of LinkedList.<br/>
+* Interactive console based menu.<br/>
+* Implemented in C language.
